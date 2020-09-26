@@ -1,20 +1,20 @@
-# conscripter
+# The ‘Conscripter’ Project
 
-Tools to bring new writing systems to life in the digital world.
+A toolbox for bringing new writing systems to life in the digital world.
 
 ## What is a ‘conscript’?
 
-Perhaps you have heard the term ‘conlang’ referring to a language that has been artificially created; a constructed language.
-In a similar vein a ‘conscript’ could be as a writing system developed as a deliberate effort to create a writing system rather than organically over time.
+Perhaps you have heard the term ‘conlang’ — a reference to a language that has been artificially created; a [constructed language](https://en.wikipedia.org/wiki/Constructed_language).
+In a similar vein, a ‘conscript’ can refer to a writing system created in a deliberate effort to develop a novel writing system.
 
 Most the languages in the world have grown and evolved organically over time.
 And by time, we mean a *lot* of time.
 The [History of English](https://historyofenglishpodcast.com/) begins its tale in roughly 4500 BC with with [Proto Indo European](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
 Even what can reasonably be termed ‘modern English’ has been with us for nearly 500 years and undergone significant change.
 
-Likewise most of the writing systems in use today have been with us for a long time.
+Likewise most of the writing systems in use today have been with us for a very long time.
 In fact the vast majority of writing systems in the world existed before the digital era.
-Bringing these writing systems into modern computing has been a documentary process: taking existing and generally well understood alphabets, combining the characters with rules for their use (scripts), and codifying them in a digital set of instructions that computer software can use.
+Bringing these writing systems into modern computing has been a documentary process: taking existing (and generally well understood) alphabets, combining the characters with rules for their use (i.e scripts, and even orthographies), and codifying them in a digital set of instructions that computer software can use.
 
 *Enter Unicode from stage left.*
 
